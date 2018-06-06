@@ -17,4 +17,5 @@ make
 # RUN
 
 ./x11copy testdata
+
 ./x11paste
