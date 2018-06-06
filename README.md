@@ -1,4 +1,4 @@
-X11Clipboard minimal programs
+# X11Clipboard minimal programs
 
 This is a bare bones, minimal clipboard implementation for X11.
 
@@ -10,3 +10,11 @@ These particular programs use only main CLIPBOARD object of X11, not a SELECTION
 
 See the source luke.
 
+# BUILD
+
+make
+
+# RUN
+
+./x11copy testdata
+./x11paste
